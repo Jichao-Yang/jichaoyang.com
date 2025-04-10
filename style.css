@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-color: #fdf6e3;
+}
+
+#pet {
+    font-size: 64px;
+    cursor: pointer;
+    user-select: none;
+    transition: transform 0.2s;
+}
