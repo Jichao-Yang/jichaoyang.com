@@ -18,11 +18,3 @@ body {
     user-select: none;
     transition: transform 1s;
 }
-
-.row {
-    display: flex;
-  }
-  
-  .column {
-    flex: 50%;
-}
